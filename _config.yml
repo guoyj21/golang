@@ -2,3 +2,5 @@ collections:
 - my_collection
 
 markdown: redcarpet
+
+theme: jekyll-theme-hacker
